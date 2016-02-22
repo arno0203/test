@@ -2,5 +2,6 @@
 /app/bootstrap*
 /app/caches/*
 /app/logs/*
+/bin/composer.phar
 /vendor/
 /app/config/parameters.yml
